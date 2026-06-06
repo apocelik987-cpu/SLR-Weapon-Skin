@@ -161,3 +161,5 @@ Weapon Skin And LAPD Skin
 			weight = 227,
 			durability = 0.1,
 		},
+
+		
